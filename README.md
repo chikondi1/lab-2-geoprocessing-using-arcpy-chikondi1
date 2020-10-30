@@ -12,3 +12,5 @@ The code
 You will submit a link to your Github repo via Moodle. You will need to create your own `.py` files for the repo. *Be sure they all contain good comment headers!* Your repo should contain:
 - one script with comments and
 - one screenshot of your final map, displayed in your README.
+
+![](lab2image/Lab2.jpg)
