@@ -1,5 +1,4 @@
 # LAB 2: GEOPROCESSING USING ArcPy
-Due: 30 October 2020
 
 The purpose of this lab is to create a suitability map in order to display what bike routes and other environmental features cross through a plot of land that belongs to the UN would contain. The lab uses ArcMap 10.8 in order to clip and buffer shapefiles to create the suitability map. In addition, Python is used to code these commands, as shown in lab2_code.py. 
 
